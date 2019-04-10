@@ -1,2 +1,4 @@
 name: Yuan Zhou
 markdown: kramdown
+
+theme: jekyll-theme-minimal

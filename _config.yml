@@ -3,11 +3,11 @@ theme: jekyll-theme-minimal
 title: Yuan Zhou
 logo: /assets/img/logo.jpg
 # description: Email
-site.email: true
-
+# site.email: true
+# site.google.scholar: https://scholar.google.co.uk/citations?user=qj8T17gAAAAJ&hl=en
 
 show_downloads: false
-site.google.scholar: https://scholar.google.co.uk/citations?user=qj8T17gAAAAJ&hl=en
+
 
 google_analytics: true
 theme: jekyll-theme-minimal

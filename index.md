@@ -16,7 +16,7 @@ I am supervised by
 [Hongseok Yang](https://cs.kaist.ac.kr/people/view?idx=552&kind=faculty&menu=160), 
 [Yee Whye Teh](https://www.stats.ox.ac.uk/~teh/index.html),
 [Tom Rainforth](http://www.robots.ox.ac.uk/~twgr/),
-[Sam Stanton](http://www.cs.ox.ac.uk/people/samuel.staton/main.html),
+[Sam Staton](http://www.cs.ox.ac.uk/people/samuel.staton/main.html),
 and
 [Frank Wood](https://www.cs.ubc.ca/~fwood/) , 
 and

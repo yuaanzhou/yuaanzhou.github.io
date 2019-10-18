@@ -8,19 +8,20 @@ layout: default
 # About Me
 
 
-I'm a 3rd year DPhil(PhD) student in the Department of Computer Science at University of Oxford. 
+I'm a final year DPhil(PhD) student in the Department of Computer Science at University of Oxford. 
 My current research interest lies in Probabilistic Programming and Machine Learning, especially in optimizing the design of Probabilsitic Programming Languages (PPLs) and automating efficient inferece algorithms in Probabilsitic Programming Systems (PPSs).
 
 
 I am supervised by 
 [Hongseok Yang](https://cs.kaist.ac.kr/people/view?idx=552&kind=faculty&menu=160), 
+[Yee Whye Teh](https://www.stats.ox.ac.uk/~teh/index.html),
 [Tom Rainforth](http://www.robots.ox.ac.uk/~twgr/),
 [Sam Stanton](http://www.cs.ox.ac.uk/people/samuel.staton/main.html),
-[Frank Wood](https://www.cs.ubc.ca/~fwood/) 
 and
-[Yee Whye Teh](https://www.stats.ox.ac.uk/~teh/index.html), and
-I am also part of [Oxford Statistical Machine Learning Group](http://csml.stats.ox.ac.uk/).
-
+[Frank Wood](https://www.cs.ubc.ca/~fwood/) , 
+and
+I am part of [Oxford Statistical Machine Learning Group](http://csml.stats.ox.ac.uk/).
+I am also one of the student representatives in [CoGS](https://www.cs.ox.ac.uk/societies/COGS/) in CS.
 
 
 &nbsp;
@@ -28,6 +29,8 @@ I am also part of [Oxford Statistical Machine Learning Group](http://csml.stats.
 
 # Publications
 ## 2019
+* **Y. Zhou**, H. Yang, Y. W. Teh and T. Rainforth, “Divide, Conquer, and Combine: a New Inference Strategy for Probabilistic Programs with Stochastic Support,” (under review), 2019.  
+
 * **Y. Zhou**, B. Gram-Hansen, T. Kohn, T. Rainforth, H. Yang, and F. Wood, “A Low-Level Probabilistic Programming Language for Non-Differentiable Models,” International Conference on Artificial Intelligence and Statistics (AISTATS, to appear), 2019.  
     [paper](https://arxiv.org/pdf/1903.02482.pdf) | [code]() | [poster]()
     

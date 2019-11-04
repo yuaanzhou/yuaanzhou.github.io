@@ -8,7 +8,7 @@ layout: default
 # About Me
 
 
-I'm a final year DPhil(PhD) student in the Department of Computer Science at University of Oxford. 
+I'm a final year DPhil(PhD) student in the [Department of Computer Science](http://www.cs.ox.ac.uk/) at University of Oxford. 
 My current research interest lies in Probabilistic Programming and Machine Learning, especially in optimizing the design of Probabilsitic Programming Languages (PPLs) and automating efficient inferece algorithms in Probabilsitic Programming Systems (PPSs).
 
 
@@ -29,7 +29,8 @@ I am also one of the student representatives in [CoGS](https://www.cs.ox.ac.uk/s
 
 # Publications
 ## 2019
-* **Y. Zhou**, H. Yang, Y. W. Teh and T. Rainforth, “Divide, Conquer, and Combine: a New Inference Strategy for Probabilistic Programs with Stochastic Support,” (under review), 2019.  
+* **Y. Zhou**, H. Yang, Y. W. Teh and T. Rainforth, “Divide, Conquer, and Combine: a New Inference Strategy for Probabilistic Programs with Stochastic Support,” arXiv preprint arXiv:1910.13324, 2019.  
+    [paper](https://arxiv.org/abs/1910.13324)
 
 * **Y. Zhou**, B. Gram-Hansen, T. Kohn, T. Rainforth, H. Yang, and F. Wood, “A Low-Level Probabilistic Programming Language for Non-Differentiable Models,” International Conference on Artificial Intelligence and Statistics (AISTATS, to appear), 2019.  
     [paper](https://arxiv.org/pdf/1903.02482.pdf) | [code]() | [poster]()

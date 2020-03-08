@@ -34,24 +34,17 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         
         <p class="view">
-        Email me: yuan{dot}zhou{at}cs{doc}ox{doc}ac{dot}uk
-<!--        <a href="mailto:yuan.zhou@cs.ox.ac.uk">Email me: yuan.zhou@cs.ox.ac.uk</a>-->
+        Email me: firstname{dot}lastname{at}cs{doc}ox{doc}ac{dot}uk
+<!--        <a href="mailto: email">Email me: email</a>-->
         </p>
         
         <p class="view">
-<!--        <a href="mailto:yuan.zhou@cs.ox.ac.uk">Email</a>   <br>-->
+<!--        <a href="mailto: email">Email</a>   <br>-->
         <a href="https://scholar.google.co.uk/citations?user=qj8T17gAAAAJ&hl=en">Google Scholar</a> <br>
         <a href="https://github.com/yuaanzhou">GitHub</a> <br>
         <a href="https://twitter.com/yuaanzhou">Twitter</a>
         </p>
         
-<!--        <p>-->
-<!--        <ul> <a href="mailto:yuaanzhou@gmail.com">Email</a> /-->
-<!--        <a href="https://scholar.google.co.uk/citations?user=qj8T17gAAAAJ&hl=en">Google Scholar</a>/-->
-<!--        <a href="https://github.com/yuaanzhou">Github</a>-->
-<!--        <a href="https://twitter.com/yuaanzhou">Twitter</a>-->
-<!--        </ul>-->
-<!--       </p>-->
 
 
         {% if site.github.is_project_page %}
@@ -69,19 +62,19 @@
           <li><a href="{{ site.github.repository_url }}"> <strong>Twitter</strong></a></li>
         </ul>
         {% endif %}
+        
+<!--   Any thing here will stay with the header     -->
+
       </header>
+      
       <section>
-
       {{ content }}
-
       </section>
-<!--      <footer>-->
-<!--        {% if site.github.is_project_page %}-->
-<!--        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>-->
-<!--        {% endif %}-->
-<!--        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>-->
-<!--      </footer>-->
+
     </div>
+    
+    
+    
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     {% if site.google_analytics %}
     <script>
@@ -93,5 +86,15 @@
       ga('send', 'pageview');
     </script>
     {% endif %}
+    
+
+    <!--SECTION  clustrmaps-->
+    <div style="clear:both;">
+        <p align="right"><font size="2">
+            <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=2d78ad&w=300&t=tt&d=2xxd46Am4v_7jA4KPDw6evPqBzwyeKtE8IGBzymKcnI&co=ffffff&ct=2d78ad&cmo=ffba53&cmn=ff5353"></script>
+        </font></p>
+        <br/>
+    </div>
+    
   </body>
 </html>

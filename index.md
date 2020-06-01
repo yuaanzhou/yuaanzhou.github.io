@@ -14,8 +14,8 @@ My current research interest lies in Probabilistic Programming and Machine Learn
 
 I am supervised by 
 [Hongseok Yang](https://cs.kaist.ac.kr/people/view?idx=552&kind=faculty&menu=160), 
-[Yee Whye Teh](https://www.stats.ox.ac.uk/~teh/index.html),
 [Tom Rainforth](http://www.robots.ox.ac.uk/~twgr/),
+[Yee Whye Teh](https://www.stats.ox.ac.uk/~teh/index.html),
 [Sam Staton](http://www.cs.ox.ac.uk/people/samuel.staton/main.html),
 and
 [Frank Wood](https://www.cs.ubc.ca/~fwood/) , 
@@ -28,12 +28,17 @@ I am also one of the student representatives in [CoGS](https://www.cs.ox.ac.uk/s
 
 
 # Publications
+## 2020
+* T. David, **Y. Zhou**, and H. Yang. "Stochastically Differentiable Probabilistic Programs." arXiv preprint arXiv:2003.00704 (2020).
+    [paper](https://arxiv.org/pdf/2003.00704.pdf) 
+
 ## 2019
-* **Y. Zhou**, H. Yang, Y. W. Teh and T. Rainforth, “Divide, Conquer, and Combine: a New Inference Strategy for Probabilistic Programs with Stochastic Support,” arXiv preprint arXiv:1910.13324, 2019.  
+* **Y. Zhou**, H. Yang, Y. W. Teh and T. Rainforth, “Divide, Conquer, and Combine: a New Inference Strategy for Probabilistic Programs with Stochastic Support,” International Conference on Machine Learning (ICML, to appear), 2020.  
     [paper](https://arxiv.org/abs/1910.13324)
 
-* **Y. Zhou**, B. Gram-Hansen, T. Kohn, T. Rainforth, H. Yang, and F. Wood, “A Low-Level Probabilistic Programming Language for Non-Differentiable Models,” International Conference on Artificial Intelligence and Statistics (AISTATS, to appear), 2019.  
-    [paper](https://arxiv.org/pdf/1903.02482.pdf) | [code]() | [poster]()
+* **Y. Zhou***, B. Gram-Hansen*, T. Kohn, T. Rainforth, H. Yang, and F. Wood, “A Low-Level Probabilistic Programming Language for Non-Differentiable Models,” International Conference on Artificial Intelligence and Statistics (AISTATS), 2019.  
+    [paper](https://arxiv.org/pdf/1903.02482.pdf) 
+    <!-- | [code]() | [poster]() -->
     
 ## 2018
 * **Y. Zhou**, B. Gram-Hansen, T. Kohn, T. Rainforth, H. Yang, and F. Wood, “Hamiltonian Monte Carlo for Probabilistic Programs
@@ -52,3 +57,6 @@ I am also one of the student representatives in [CoGS](https://www.cs.ox.ac.uk/s
     
 * X. Lu, T. Rainforth, **Y. Zhou**, J.-W. van de Meent, and Y. W. Teh, “On Exploration, Exploitation and Learning in Adaptive Importance Sampling [Workshop Version],” NeurIPS Workshop on Advances in Approximate Bayesian Inference, 2017.  
     [paper](https://arxiv.org/pdf/1810.13296.pdf) 
+
+
+(* equal contribution)
